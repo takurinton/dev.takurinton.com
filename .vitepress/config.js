@@ -55,7 +55,7 @@ module.exports = {
             children: [
               {
                 text: 'PHP',
-                link: 'posts/php'
+                link: '/tech/php/'
               }
             ]
           },

@@ -1,4 +1,5 @@
 # Hello takurinton
 
 - [about](/about/)
-- [tech](/posts/)
+- [tech](/tech/)
+- [dairy](/dairy/)
