@@ -28,12 +28,6 @@ module.exports = {
         apiKey: 'b573aa848fd57fb47d693b531297403c',
         indexName: 'vitejs'
       },
-  
-      carbonAds: {
-        carbon: 'CEBIEK3N',
-        placement: 'vitejsdev'
-      },
-  
       nav: [
         { text: 'このサイトについて', link: '/about/' },
         { text: '技術メモ', link: '/tech/' },

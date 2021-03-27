@@ -1,11 +1,13 @@
 ---
-title: フロントエンドのメモ | たくりんとん
-description: フロントエンドのメモ
 meta:
  -
   og:title: 'フロントエンドのメモ'
  -
   twitter:title: 'フロントエンドのメモ'
+ -
+  og:description: 'フロントエンドのメモ'
+ -
+  twitter:description: 'フロントエンドのメモ'
 ---
 
 # フロントエンドの技術について
