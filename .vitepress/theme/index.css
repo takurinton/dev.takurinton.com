@@ -3,10 +3,15 @@
 }
 
 a,
-p, 
+p,
+li, 
 .item[data-v-798ef1f0],
 .sidebar > .sidebar-links > .sidebar-link > .sidebar-links > .sidebar-link > .sidebar-link-item {
     font-weight: 700;
+}
+
+.custom-block.tip {
+    border-color: #7fd5ea;
 }
 
 .nav-bar-title:hover {
