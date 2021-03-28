@@ -17,5 +17,5 @@ head:
 
 # {{ $frontmatter.title }}
 
-- [PHP](/tech/php/index.html)
-- [フロントエンド](/tech/frontend/index.html)
+- [PHP](/tech/php/)
+- [フロントエンド](/tech/frontend/)

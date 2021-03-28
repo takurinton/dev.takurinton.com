@@ -18,7 +18,7 @@ module.exports = {
         ['meta',{ name:"twitter:image", content:"https://www.takurinton.com/me.jpeg"}],
     ],
     themeConfig: {
-      repo: 'takurinton/tech-memo',
+      repo: 'takurinton/dev',
       docsBranch: 'main',
       algolia: {
         apiKey: 'b573aa848fd57fb47d693b531297403c',
@@ -53,11 +53,11 @@ module.exports = {
             children: [
               {
                 text: 'PHP',
-                link: '/tech/php/index.html'
+                link: '/tech/php/'
               },
               {
                 text: 'フロントエンド',
-                link: '/tech/frontend/index.html'
+                link: '/tech/frontend/'
               }
             ]
           },
