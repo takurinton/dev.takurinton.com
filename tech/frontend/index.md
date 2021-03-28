@@ -1,15 +1,20 @@
 ---
-meta:
- -
-  og:title: 'フロントエンドのメモ'
- -
-  twitter:title: 'フロントエンドのメモ'
- -
-  og:description: 'フロントエンドのメモ'
- -
-  twitter:description: 'フロントエンドのメモ'
+title: フロントエンド
+head:
+  - - meta
+    - name: og:title
+      content: 技術メモ | フロントエンド
+  - - meta
+    - name: twitter:title
+      content: 技術メモ | フロントエンド
+  - - meta
+    - name: og:description
+      content: 技術メモ | フロントエンド
+  - - meta
+    - name: twitter:description
+      content: 技術メモ | フロントエンド
 ---
 
-# フロントエンドの技術について
+# {{ $frontmatter.title }}
 
 - [json-ld について](/tech/frontend/json-ld)
