@@ -17,3 +17,15 @@ li,
 .nav-bar-title:hover {
     color: var(--c-brand);
 }
+
+h4 {
+    margin-top: 2rem;
+    margin-bottom: .5rem;
+    line-height: 1;
+    font-size: 1.45rem;
+}
+
+.sidebar > .sidebar-links > .sidebar-link > .sidebar-links > .sidebar-link > .sidebar-links > .sidebar-link > .sidebar-links > .sidebar-link > .sidebar-link-item, 
+.sidebar > .sidebar-links > .sidebar-link > .sidebar-links > .sidebar-link > .sidebar-links > .sidebar-link > .sidebar-link-item{
+    font-weight: 500;
+}
