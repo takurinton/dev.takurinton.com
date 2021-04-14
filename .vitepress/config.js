@@ -98,16 +98,16 @@ module.exports = {
                   },
                 ]
               },
-              {
-                text: 'Python',
-                link: '/tech/python/',
-                children: [
-                  {
-                    text: '並行処理と並列処理',
-                    link: '/tech/python/multi', 
-                  }
-                ]
-              },
+              // {
+              //   text: 'Python',
+              //   link: '/tech/python/',
+              //   children: [
+              //     {
+              //       text: '並行処理と並列処理',
+              //       link: '/tech/python/multi', 
+              //     }
+              //   ]
+              // },
               {
                 text: 'GraphQL',
                 link: '/tech/graphql/',
