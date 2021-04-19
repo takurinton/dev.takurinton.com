@@ -19,3 +19,4 @@ head:
 
 - [GraphQL 入門（概念）](/tech/graphql/concept)
 - [GraphQL 入門（Go）](/tech/graphql/base_server_go)
+- [GraphQL 入門（preact）](/tech/graphql/base_frontend_preact)

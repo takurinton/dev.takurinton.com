@@ -122,6 +122,10 @@ module.exports = {
                   {
                     text: 'GraphQL 入門（Go）',
                     link: '/tech/graphql/base_server_go', 
+                  },
+                  {
+                    text: 'GraphQL 入門（preact）',
+                    link: '/tech/graphql/base_frontend_preact', 
                   }
                 ]
               },
