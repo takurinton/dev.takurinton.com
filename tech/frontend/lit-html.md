@@ -153,6 +153,7 @@ const isUser = html`
     html`<h1>Please log in</h1>`
   }
 `;
+```
 
 #### `render` について
 `render` は感覚で言うと [ReactDOM.render](https://ja.reactjs.org/docs/react-dom.html#render) に近いです。  
