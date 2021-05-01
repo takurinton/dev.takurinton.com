@@ -20,10 +20,10 @@ module.exports = {
     themeConfig: {
       repo: 'takurinton/dev',
       docsBranch: 'main',
-      algolia: {
-        apiKey: 'b573aa848fd57fb47d693b531297403c',
-        indexName: 'vitejs'
-      },
+      // algolia: {
+      //   apiKey: 'b573aa848fd57fb47d693b531297403c',
+      //   indexName: 'vitejs'
+      // },
       nav: [
         { text: 'このサイトについて', link: '/about/' },
         { text: '技術メモ', link: '/tech/' },
@@ -92,6 +92,10 @@ module.exports = {
                   {
                     text: 'lit-html の素振り',
                     link: '/tech/frontend/lit-html', 
+                  },
+                  {
+                    text: 'Vitejs について',
+                    link: '/tech/frontend/vite', 
                   },
                 ]
               },

@@ -23,3 +23,4 @@ head:
 - [Web Components について](/tech/frontend/web-components)
 - [credentials を指定した際に注意するべきこと](/tech/frontend/credentials_all)
 - [lit-html の素振り](/tech/frontend/lit-html)
+- [Vitejs について](/tech/frontend/vite)
