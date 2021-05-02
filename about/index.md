@@ -34,9 +34,12 @@ Vuepress に近いですが互換性はないようです。
 フロントエンドが好きです。  
 詳しくは以下のリンクから知ることができます。  
 
-- [Twitter](https://twitter.com/takurinton)
-- [GitHub](https://github.com/takurinton)
-- [Instagram](https://www.instagram.com/takurinton)
-- [Facebook](https://www.facebook.com/takurinton)
-- [portfolio/blog](https://www.takurinton.com/)
+- [Twitter](https://twitter.com/takurinton/)
+- [GitHub](https://github.com/takurinton/)
+- [Instagram](https://www.instagram.com/takurinton/)
+- [Facebook](https://www.facebook.com/takurinton/)
+- [Wantedly](https://www.wantedly.com/id/takurinton/)
+- [LinkedIn](https://www.linkedin.com/in/takumi-katayama-9613a21a9/)
+- [Portfolio](https://portfolio.takurinton/com/)
+- [Blog](https://www.takurinton.com/)
 
