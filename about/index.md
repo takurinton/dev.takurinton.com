@@ -21,7 +21,7 @@ head:
 
 これはブログにまとめるほどでもないけどメモしておきたいことを書き留めて置く場所です。  
 どれくらいの規模、内容の記事になるかはわかりませんが、定期的に感じたことや学んだことを書いていきます。また、読んだ本についてもまとめるかもしれません。  
-本記事はマークダウンを使用して書いていて、記事は GitHub を経由してデプロイされます。もし内容が薄い場合や間違っている点などがありましたら [本サイトのレポジトリ](https://github.com/takurinton/dev)　に気軽に PR を作成して修正してください。とても喜びます。  
+本記事はマークダウンを使用して書いていて、記事は GitHub を経由してデプロイされます。もし内容が薄い場合や間違っている点などがありましたら [本サイトのレポジトリ](https://github.com/takurinton/dev) に気軽に PR を作成して修正してください。とても喜びます。  
 
 ## 使用技術
 本サイトは Vitepress を使用しています。([ドキュメント](https://vitepress.vuejs.org/), [GitHub](https://github.com/vuejs/vitepress))  
@@ -40,6 +40,6 @@ Vuepress に近いですが互換性はないようです。
 - [Facebook](https://www.facebook.com/takurinton/)
 - [Wantedly](https://www.wantedly.com/id/takurinton/)
 - [LinkedIn](https://www.linkedin.com/in/takumi-katayama-9613a21a9/)
-- [Portfolio](https://portfolio.takurinton/com/)
+- [Portfolio](https://portfolio.takurinton.com/)
 - [Blog](https://www.takurinton.com/)
 
