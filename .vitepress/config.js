@@ -145,17 +145,27 @@ module.exports = {
                 ]
               },
               {
-                text: 'Real World HTTP',
-                link: '/tech/real-world-http/',
+                text: 'http',
+                link: '/tech/http/', 
                 children: [
                   {
-                    text: '1章',
-                    link: '/tech/real-world-http/1', 
+                    text: 'HTTP の意味論',
+                    link: '/tech/http/semantics', 
                   },
                   {
-                    text: '2章',
-                    link: '/tech/real-world-http/2', 
-                  }
+                    text: 'Real World HTTP',
+                    link: '/tech/http/real-world-http/',
+                    children: [
+                      {
+                        text: '1章',
+                        link: '/tech/http/real-world-http/1', 
+                      },
+                      {
+                        text: '2章',
+                        link: '/tech/http/real-world-http/2', 
+                      }
+                    ]
+                  },
                 ]
               },
               {

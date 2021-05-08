@@ -27,5 +27,5 @@ head:
 - [フロントエンド](/tech/frontend/)
 - [インフラ周り](/tech/infrastructure/)
 - [GraphQL](/tech/graphql/)
-- [Real World HTTP](/tech/real-world-http/)
+- [http](/tech/http/)
 - [機械学習](/tech/ml/)

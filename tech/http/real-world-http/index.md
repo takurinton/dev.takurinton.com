@@ -23,5 +23,5 @@ head:
 
 # {{ $frontmatter.title }}
 
-- [1章](/tech/real-world-http/1)
-- [2章](/tech/real-world-http/2)
+- [1章](/tech/http/real-world-http/1)
+- [2章](/tech/http/real-world-http/2)
