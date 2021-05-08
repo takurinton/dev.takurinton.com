@@ -81,4 +81,4 @@ HTTP の設計目標の一つに、リソースの識別を request の semantic
 
 #### https uri スキーム
 
-#### 両者の比較
+#### http/https の両者の比較
