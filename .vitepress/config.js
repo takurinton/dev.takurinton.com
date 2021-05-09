@@ -178,6 +178,16 @@ module.exports = {
                   },
                 ]
               },
+              {
+                text: '共通？その他？',
+                link: '/tech/common/',
+                children: [
+                  {
+                    text: 'ソフトウェアを構成する12の要素',
+                    link: '/tech/common/12-factor', 
+                  },
+                ]
+              },
             ]
           },
           {
