@@ -186,6 +186,10 @@ module.exports = {
                     text: 'ソフトウェアを構成する12の要素',
                     link: '/tech/common/12-factor', 
                   },
+                  {
+                    text: 'バンドラを作る',
+                    link: '/tech/common/bundler', 
+                  },
                 ]
               },
             ]

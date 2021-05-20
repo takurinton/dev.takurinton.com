@@ -25,3 +25,4 @@ head:
 # {{ $frontmatter.title }}
 
 - [ソフトウェアを構成する12の要素](/tech/common/12-factor)
+- [バンドラを作る](/tech/common/bunlder)
