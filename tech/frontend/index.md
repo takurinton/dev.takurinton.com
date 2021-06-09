@@ -34,3 +34,4 @@ head:
 - [haunted が良い](/tech/frontend/haunted)
 - [ESM について](/tech/frontend/esm)
 - [Blitz について学ぶ](/tech/frontend/blitz)
+- [React 18！！！](/tech/frontend/react18)

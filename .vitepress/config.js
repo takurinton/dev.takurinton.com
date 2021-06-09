@@ -108,6 +108,10 @@ module.exports = {
                     text: 'Blitz について学ぶ',
                     link: '/tech/frontend/blitz', 
                   },
+                  {
+                    text: 'React v18 について',
+                    link: '/tech/frontend/react18', 
+                  },
                 ]
               },
               {
