@@ -122,6 +122,10 @@ module.exports = {
                     text: '挙動が怪しい時',
                     link: '/tech/infrastructure/watch', 
                   },
+                  {
+                    text: 'DB のインデックスについて',
+                    link: '/tech/infrastructure/db_index', 
+                  },
                 ]
               },
               // {
@@ -185,8 +189,8 @@ module.exports = {
                 link: '/tech/ml/',
                 children: [
                   {
-                    text: '機械学習超入門',
-                    link: '/tech/ml/beginner', 
+                    text: 'SVM について',
+                    link: '/tech/ml/svm_base', 
                   },
                   {
                     text: 'クラスタについて',

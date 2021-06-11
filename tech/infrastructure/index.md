@@ -24,3 +24,4 @@ head:
 # {{ $frontmatter.title }}
 
 - [挙動が怪しい時](/tech/infrastructure/watch)
+- [DB のインデックスについて](/tech/infrastructure/db_index)
